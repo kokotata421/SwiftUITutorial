@@ -17,7 +17,7 @@ env:
 jobs:
 
   test:
-    runs-on: macOS-latest
+    runs-on: macOS-12
 
     steps:
     # チェックアウト
